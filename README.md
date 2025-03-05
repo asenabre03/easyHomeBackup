@@ -1,5 +1,3 @@
-# easyHomeBackup
-
 # ¡El Script mas sencillo de Backup para Proteger tus Datos!
 
 ¿Te da pereza hacer copias y estas harto de perder información importante? Este script Bash es la solución ideal para ti. Con un funcionamiento simple, automatiza la creación de backups de tus directorios de usuario.
