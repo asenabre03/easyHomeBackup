@@ -1,4 +1,4 @@
-# 🔒 ¡El Script más sencillo de Backup para copiar tus Datos!
+# 🔒 ¡El Script más sencillo de Backup para copiar tus datos!
 
 ¿Te da pereza hacer copias y estás harto de perder información importante? Este script Bash es la solución ideal para ti. Con un funcionamiento simple, automatiza la creación de backups de tus directorios de usuario.
 
