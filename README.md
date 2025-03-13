@@ -1,10 +1,10 @@
-# ¡El Script mas sencillo de Backup para Proteger tus Datos!
+# 🔒 ¡El Script más sencillo de Backup para Proteger tus Datos!
 
-¿Te da pereza hacer copias y estas harto de perder información importante? Este script Bash es la solución ideal para ti. Con un funcionamiento simple, automatiza la creación de backups de tus directorios de usuario.
+¿Te da pereza hacer copias y estás harto de perder información importante? Este script Bash es la solución ideal para ti. Con un funcionamiento simple, automatiza la creación de backups de tus directorios de usuario.
 
 ---
 
-## Características Destacadas
+## ✨ Características Destacadas
 
 - **Ejecución Segura:**  
   Comprueba si se ejecuta con privilegios de root (usando `sudo`), lo que garantiza que el script tenga los permisos necesarios para operar sin inconvenientes.
@@ -18,20 +18,20 @@
 - **Opciones de Destino Flexibles:**  
   Permite elegir entre guardar el backup en:
   - Un directorio local predefinido (`/backups`), o
-  - Un dispositivo de almacenamiento externo, el Script te indicara los discos duros montados en tu sistema para ayudarte a elegir en cual quieres hacer la copia.
+  - Un dispositivo de almacenamiento externo, el Script te indicará los discos duros montados en tu sistema para ayudarte a elegir en cuál quieres hacer la copia.
 
 - **Proceso Interactivo y Claro:**  
   Presenta mensajes y opciones en pantalla para guiarte paso a paso, lo que hace que el proceso sea intuitivo incluso para usuarios con poca experiencia en la terminal.
 
 ---
 
-## **Como ejecutar el Script**
+## 🚀 **Cómo ejecutar el Script**
 1. Clona el repositorio con `git clone` o descárgalo a través de `wget`.
     ```sh
     git clone https://github.com/asenabre03/easyHomeBackup.git
     wget https://github.com/asenabre03/easyHomeBackup/archive/refs/heads/main.zip
     ```
-2. Tendrás que tener **privilegios de superusuario** para poder ejecutar el script
+2. Tendrás que tener **privilegios de superusuario** para poder ejecutar el script.
 3. Utiliza los siguientes comandos para ejecutar el script:
     ```sh
     sudo chmod +x setup.sh
